@@ -1,0 +1,4 @@
+[submodule "BookMyHome"]
+	path = BookMyHome
+	url = https://github.com/kbr-ucl/2024F-DMVF231-3-sem-BookMyHome.git
+	branch = main
