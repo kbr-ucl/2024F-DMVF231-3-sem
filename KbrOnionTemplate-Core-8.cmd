@@ -54,6 +54,7 @@ dotnet add %app%.Infrastructure/%app%.Infrastructure.csproj package Microsoft.En
 dotnet add %app%.Infrastructure/%app%.Infrastructure.csproj package Microsoft.EntityFrameworkCore.Relational
 
 dotnet add %app%.Domain.Test/%app%.Domain.Test.csproj package Moq
+dotnet add %app%.Domain.Test/%app%.Domain.Test.csproj package MockProvider
 
 dotnet restore %app%.sln -s https://api.nuget.org/v3/index.json
 pause
