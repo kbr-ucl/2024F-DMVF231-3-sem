@@ -2,3 +2,7 @@
 	path = BookMyHome
 	url = https://github.com/kbr-ucl/2024F-DMVF231-3-sem-BookMyHome.git
 	branch = main
+[submodule "DemoCode"]
+	path = DemoCode
+	url = https://github.com/kbr-ucl/2024F-DMVF231-3-sem-DemoCode.git
+	branch = main
